@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1TD8W0qavB0IRxDxKVcd9XFF9n81DTVf7/view?usp=shari
 A
 
 
-https://colab.research.google.com/github/tunyu0/two/blob/master/%E6%8E%A8%E8%AB%96%E7%84%A1%E4%BA%BA%E6%A9%9F_35_66.ipynb
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TD8W0qavB0IRxDxKVcd9XFF9n81DTVf7/view?usp=sharing)
 
